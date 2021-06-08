@@ -132,8 +132,8 @@ div {
 ul li {
   list-style: none;
   margin: 0;
-  padding-left: 90px;
-  padding-right: 90px;
+  padding-left: 110px;
+  padding-right: 110px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap; }
